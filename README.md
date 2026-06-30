@@ -176,7 +176,7 @@ src/
 ├── exercise4/
 ├── exercise5/
 ├── exercise6/
-├── exercise7/
+├── company.hr/
 ├── exercise8/
 ├── exercise9/
 ├── exercise10/
